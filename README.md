@@ -39,6 +39,30 @@
    ```sh
    git clone https://github.com/ImenBenAmar/Rain_Prediction.git
       ```
+# Model Evaluation 
+## Results
+
+Here is an overview of the project with some visual aids:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1mWs6YbhbZySZ2-xMX0U-f-nqE0Y03gx3" alt="Image 1 Description" width="1000" height="300"/>
+      <br>
+      <em>Image 1: Classification Report</em>
+    </td>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1-rP64jAd6OwUpJTO21n00kqatjAD3dKU" alt="Image 2 Description" width="1000" height="300"/>
+      <br>
+      <em>Image 2: Confusion Matrix</em>
+    </td>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1T8p3kar-I9a3sn25x8RLwD6YUCuwMIPm" alt="Image 2 Description" width="1000" height="300"/>
+      <br>
+      <em>Image 2: Learning Curve</em>
+    </td>
+  </tr>
+</table>
    
 
 
