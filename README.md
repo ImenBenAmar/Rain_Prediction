@@ -38,6 +38,7 @@
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/ImenBenAmar/Rain_Prediction.git
+      ```
    
 
 
