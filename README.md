@@ -18,8 +18,8 @@ Dimensionality Reduction: Integrated PCA to reduce problem complexity and improv
 - Data visualization
 - feature engineering
 - Data encoding
-- Scalling
-- Modelling
+- Scaling
+- Modeling
 - Train a binary classification model
 - Evaluate model performance using metrics like accuracy, recall, and F1-score
 
